@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Lecture Writer"
+  short_description: "Rigorous learning-note and lecture drafting"
+  default_prompt: "Use $study-lecture-writer to write a rigorous, reader-centered lecture note for this topic."
